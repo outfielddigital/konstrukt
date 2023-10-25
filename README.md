@@ -15,4 +15,4 @@ The purpose of this repository is to act as a central hub for reporting issues w
 
 ## Copyright
 
-Copyright © 2022 Outfield Digital Ltd. All rights reserved.
+Copyright © 2023 Umbraco HQ. All rights reserved.
